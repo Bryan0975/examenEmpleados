@@ -1,0 +1,8 @@
+PARTE 2 DEL EXAMEN 
+RUTAS DE ACCESO
+  Para el webService
+    http://localhost:8030/Employee/public/salario/1500/2000
+  Para la pagina principal 
+    http://localhost:8030/Employee/public/
+    
+    Bryan Mamani Jallurana
